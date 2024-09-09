@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>sedaya-noch-intro</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="crazy-frog"/>
+  <readme>
+    <ru>61e69c0381b8e3620e4b5eab0ec83fb80391e96e46b2d764cc45f82746a245d6</ru>
+    <en>a66ba0f65f519dadba2f2e1f2a3fb99f7cf8f4159c9e02e8dd9f2414a2420a62</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <bpm>129</bpm>
+    <lowestNote>3</lowestNote>
+    <tonalities>5</tonalities>
+    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <notes>
+      <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
+      <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
+      <note number="3" values="4" ticks="231" durationTicks="44" ppq="96" velocity="0.734"/>
+      <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
+      <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+</level>
