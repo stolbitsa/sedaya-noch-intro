@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-intro</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="crazy-frog"/>
   <readme>
     <ru>61e69c0381b8e3620e4b5eab0ec83fb80391e96e46b2d764cc45f82746a245d6</ru>
@@ -74,7 +74,7 @@
     <bpm>129</bpm>
     <lowestNote>3</lowestNote>
     <tonalities>5</tonalities>
-    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <video name="1-noch-5.mp4" size="1925878" type="video/mp4" volume="1">5d27c26d068d95459fbb4682364bd56d5bf983bbf8465b6d34491c7f7abd3f63</video>
     <notes>
       <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
       <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
@@ -89,7 +89,7 @@
     <bpm>129</bpm>
     <lowestNote>3</lowestNote>
     <tonalities>5</tonalities>
-    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <video name="1-noch-6.mp4" size="1955277" type="video/mp4" volume="1">51e382d020a5d5a205820ed56d8f4ff2319e66401e9758e0fc45b5e19b69919a</video>
     <notes>
       <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
       <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
@@ -104,7 +104,7 @@
     <bpm>129</bpm>
     <lowestNote>3</lowestNote>
     <tonalities>5</tonalities>
-    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <video name="1-noch-7.mp4" size="1960087" type="video/mp4" volume="1">9e49eaece89e709e240d9f3c7395e76133a995add6cb74eac7785c30535313b5</video>
     <notes>
       <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
       <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
@@ -112,6 +112,9 @@
       <note number="4" values="28" ticks="278" durationTicks="86" ppq="96" velocity="0.921"/>
       <note number="5" values="5" ticks="373" durationTicks="44" ppq="96" velocity="0.792"/>
       <note number="6" values="38" ticks="422" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="7" values="38" ticks="576" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="8" values="38" ticks="672" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="9" values="38" ticks="768" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
 </level>
