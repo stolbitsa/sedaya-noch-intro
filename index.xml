@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-intro</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="crazy-frog"/>
   <readme>
     <ru>61e69c0381b8e3620e4b5eab0ec83fb80391e96e46b2d764cc45f82746a245d6</ru>
@@ -44,7 +44,7 @@
     <bpm>129</bpm>
     <lowestNote>3</lowestNote>
     <tonalities>5</tonalities>
-    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <video name="1-noch-3.mp4" size="1913917" type="video/mp4" volume="1">e3843b43869135e3a76d9e27a5d5aafd462f12583f34fa21db32ad03e1a8216b</video>
     <notes>
       <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
       <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
@@ -59,7 +59,7 @@
     <bpm>129</bpm>
     <lowestNote>3</lowestNote>
     <tonalities>5</tonalities>
-    <video name="1-noch-1.mp4" size="1930074" type="video/mp4" volume="1">84b31070dcf7d34cafde9737a2d2e8c37dea464f88b67ca0f4450dc78f9d77cf</video>
+    <video name="1-noch-4.mp4" size="1993634" type="video/mp4" volume="1">991f011bbe16a0fc141e6e4447d04a5b9c13722e4646ed4a449d2e66a658257d</video>
     <notes>
       <note number="1" values="5" ticks="84" durationTicks="47" ppq="96" velocity="0.887"/>
       <note number="2" values="38" ticks="135" durationTicks="95" ppq="96" velocity="0.787"/>
