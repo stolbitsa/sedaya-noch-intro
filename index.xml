@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>sedaya-noch-intro</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="crazy-frog"/>
   <readme>
-    <ru>9e92b1937dd4c4cd666655bfc4e364c467eb11f92823d20192b08aec25ecfdae</ru>
-    <en>d9b8ae2a15a89db29833cf0933b3e970ea584b0dc4b06f7537ecff279d6c1d16</en>
+    <ru>2ca67f08b3f0c8775b088c76292fa8211f0141040c2ca06b7c1b9e7ce5489b60</ru>
+    <en>606c17935ebd53887e11cbee7aa9d390b9172845030ac5280cdbdbd0d6950653</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
