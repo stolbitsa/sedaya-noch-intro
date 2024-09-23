@@ -11,6 +11,8 @@
 <iframe width="315" height="560" src="https://www.youtube.com/embed/o9cqIXW4WQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 # Sedaya noch - Intro - Yuri Shatunov
+Music and lyrics by [Sergey Kuznetsov](https://en.wikipedia.org/wiki/Laskovyi_Mai)
+
 
 ![Юрий Шатунов - Седая ночь (Посмертный клип, 2023) webm_snapshot_00 16 108](https://github.com/user-attachments/assets/81163d1c-6dac-40b9-abc8-f7807b1a082f)
 
